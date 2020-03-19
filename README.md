@@ -33,11 +33,9 @@ Then select and open ```Lab02-Unit-Tests.sln```
 ### Visuals
 
 #### Application Start
-![Image 1](https://via.placeholder.com/750x500)
+![Image 1](https://i.imgur.com/3ypStpT.png)
 #### Using the Application
-![Image 1](https://via.placeholder.com/750x500)
-#### Application End
-![Image 1](https://via.placeholder.com/750x500)
+![Image 1](https://i.imgur.com/JbqfRkU.png)
 
 ---
 
