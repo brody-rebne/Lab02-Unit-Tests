@@ -1,5 +1,6 @@
 using System;
 using Xunit;
+using Lab02_Unit_Tests;
 
 namespace Lab02_Tests
 {
