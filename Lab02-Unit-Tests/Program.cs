@@ -2,7 +2,7 @@
 
 namespace Lab02_Unit_Tests
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -45,6 +45,8 @@ namespace Lab02_Unit_Tests
         {
             string actionNumber = Console.ReadLine();
 
+            // exec action method based on user input
+            // user input is NOT converted to number datatype here, only takes literal strings
             if (actionNumber == "1")
             {
                 ViewBalancePrompt();
